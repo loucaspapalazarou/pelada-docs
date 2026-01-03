@@ -9,6 +9,8 @@
 
 - Create logo
 
+- Onboarding
+
 - Push notifications (especially for ios)
 
 - Standardize system accounts
